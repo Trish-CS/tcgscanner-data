@@ -13,12 +13,10 @@ This repository contains the source of truth for card game data used in the **TC
 │   ├── cards/                    ← full card data for each set
 │   │   ├── sampleset1.json
 │   │   └── sampleset2.json
-│   └── derived/                  ← used by app
-│       ├── cards_min.json
-│       └── sets_min.json
+│   └── ptcg_index.json           ← used by app, derived from full card data
 ├── mtg/                          ← future game support
 ```
 # Notes
 - Full Card Data (cards/*.json): Used for API/DB imports. Each card has a unique ID in the format 'setId-cardNumber'. The 'setId' prefix is used to link the card to its corresponding set in sets.json.
 - Set Metadata (sets.json): Contains canonical set IDs, names, series, and codes.
-- Derived Minimal Indexes (derived/*.json): Generated from the full data; used only in front-end apps for OCR TextRecognition scanning and comparison. Not imported to DB.
+- Derived Minimal Index (game_index/*.json): Generated from the full data; used only in front-end apps for OCR TextRecognition scanning and comparison. Not imported to DB.
