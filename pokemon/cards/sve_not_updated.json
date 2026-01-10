@@ -1,0 +1,274 @@
+[
+  {
+    "id": "sve-1",
+    "name": "Basic Grass Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "1",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-2",
+    "name": "Basic Fire Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "2",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-3",
+    "name": "Basic Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "3",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-4",
+    "name": "Basic Lightning Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "4",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-5",
+    "name": "Basic Psychic Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "5",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-6",
+    "name": "Basic Fighting Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "6",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-7",
+    "name": "Basic Darkness Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "7",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-8",
+    "name": "Basic Metal Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "8",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-9",
+    "name": "Basic Grass Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "9",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-10",
+    "name": "Basic Fire Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "10",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-11",
+    "name": "Basic Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "11",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-12",
+    "name": "Basic Lightning Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "12",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-13",
+    "name": "Basic Psychic Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "13",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-14",
+    "name": "Basic Fighting Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "14",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-15",
+    "name": "Basic Darkness Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "15",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  },
+  {
+    "id": "sve-16",
+    "name": "Basic Metal Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "16",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": ""
+  }
+]
