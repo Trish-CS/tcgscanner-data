@@ -1,226 +1,59 @@
 [
   {
-    "id": "tk2b-1",
-    "name": "Arcanine",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "90",
-    "types": [
-      "Fire"
-    ],
-    "evolvesFrom": "Growlithe",
-    "attacks": [
-      {
-        "name": "Flare",
-        "cost": [
-          "Fire"
-        ],
-        "damage": "20",
-        "text": ""
-      },
-      {
-        "name": "Heat Tackle",
-        "cost": [
-          "Fire",
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
-        "damage": "70",
-        "text": "Arcanine does 10 damage to itself."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Water",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "number": "1",
-    "artist": "Ken Sugimori",
-    "nationalPokedexNumbers": [
-      59
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "variant": "",
-    "tcgPlayerId": ""
-  },
-  {
-    "id": "tk2b-2",
-    "name": "Charmander",
+    "id": "tk2a-1",
+    "name": "Beldum",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
     "hp": "50",
     "types": [
-      "Fire"
+      "Psychic"
     ],
     "evolvesTo": [
-      "Charmeleon"
+      "Metang"
     ],
     "attacks": [
       {
-        "name": "Headbutt",
+        "name": "Call for Family",
         "cost": [
           "Colorless"
         ],
-        "damage": "10",
-        "text": ""
+        "damage": "",
+        "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
       },
       {
-        "name": "Slash",
+        "name": "Metal Ball",
         "cost": [
-          "Colorless",
-          "Colorless"
+          "Psychic"
         ],
-        "damage": "20",
-        "text": ""
+        "damage": "",
+        "text": "Put 1 damage counter on the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
-        "type": "Water",
+        "type": "Psychic",
         "value": "×2"
       }
     ],
     "retreatCost": [
       "Colorless"
     ],
-    "number": "2",
-    "artist": "Midori Harada",
-    "nationalPokedexNumbers": [
-      4
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "variant": "",
-    "tcgPlayerId": ""
-  },
-  {
-    "id": "tk2b-3",
-    "name": "Charmeleon",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "70",
-    "types": [
-      "Fire"
-    ],
-    "evolvesFrom": "Charmander",
-    "evolvesTo": [
-      "Charizard"
-    ],
-    "attacks": [
-      {
-        "name": "Flare",
-        "cost": [
-          "Fire",
-          "Colorless"
-        ],
-        "damage": "30",
-        "text": ""
-      },
-      {
-        "name": "Damage Burn",
-        "cost": [
-          "Fire",
-          "Colorless",
-          "Colorless"
-        ],
-        "damage": "40+",
-        "text": "If the Defending Pokémon already has any damage counters on it, this attack does 40 damage plus 20 more damage."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Water",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "number": "3",
+    "number": "1",
     "artist": "Kouki Saitou",
-    "rarity": "Uncommon",
     "nationalPokedexNumbers": [
-      5
+      374
     ],
     "legalities": {
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "83786"
   },
   {
-    "id": "tk2b-4",
-    "name": "Growlithe",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "60",
-    "types": [
-      "Fire"
-    ],
-    "evolvesTo": [
-      "Arcanine"
-    ],
-    "attacks": [
-      {
-        "name": "Bite",
-        "cost": [
-          "Colorless"
-        ],
-        "damage": "10",
-        "text": ""
-      },
-      {
-        "name": "Flame Tail",
-        "cost": [
-          "Fire",
-          "Colorless",
-          "Colorless"
-        ],
-        "damage": "40",
-        "text": ""
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Water",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "number": "4",
-    "artist": "Ken Sugimori",
-    "nationalPokedexNumbers": [
-      58
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "variant": "",
-    "tcgPlayerId": ""
-  },
-  {
-    "id": "tk2b-5",
-    "name": "Mareep",
+    "id": "tk2a-2",
+    "name": "Electrike",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic"
@@ -230,25 +63,25 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Flaaffy"
+      "Manectric"
     ],
     "attacks": [
       {
-        "name": "Minor Errand-Running",
+        "name": "Recharge",
         "cost": [
-          "Colorless"
+          "Lightning"
         ],
         "damage": "",
-        "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        "text": "Search your deck for a Lightning Energy card and attach it to Electrike. Shuffle your deck afterward."
       },
       {
         "name": "Quick Attack",
         "cost": [
-          "Lightning",
+          "Colorless",
           "Colorless"
         ],
         "damage": "10+",
-        "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
       }
     ],
     "weaknesses": [
@@ -260,20 +93,181 @@
     "retreatCost": [
       "Colorless"
     ],
-    "number": "5",
-    "artist": "Naoyo Kimura",
+    "number": "2",
+    "artist": "Hiroki Fuchino",
     "nationalPokedexNumbers": [
-      179
+      309
     ],
     "legalities": {
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "85136"
   },
   {
-    "id": "tk2b-6",
-    "name": "Minun",
+    "id": "tk2a-3",
+    "name": "Grumpig",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Spoink",
+    "attacks": [
+      {
+        "name": "Snap Tail",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "",
+        "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Psypunch",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "3",
+    "artist": "Atsuko Nishida",
+    "nationalPokedexNumbers": [
+      326
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": "85968"
+  },
+  {
+    "id": "tk2a-4",
+    "name": "Meowth",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Persian"
+    ],
+    "attacks": [
+      {
+        "name": "Collect",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "",
+        "text": "Draw a card."
+      },
+      {
+        "name": "Cat Kick",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "4",
+    "artist": "Masakazu Fukuda",
+    "nationalPokedexNumbers": [
+      52
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": "87319"
+  },
+  {
+    "id": "tk2a-5",
+    "name": "Metang",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Beldum",
+    "evolvesTo": [
+      "Metagross"
+    ],
+    "attacks": [
+      {
+        "name": "Psychic Boom",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "damage": "10+",
+        "text": "Does 10 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+      },
+      {
+        "name": "Quick Blow",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "40+",
+        "text": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "5",
+    "artist": "Hisao Nakamura",
+    "nationalPokedexNumbers": [
+      375
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": "87376"
+  },
+  {
+    "id": "tk2a-6",
+    "name": "Plusle",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic"
@@ -284,21 +278,21 @@
     ],
     "attacks": [
       {
-        "name": "Drawup Power",
+        "name": "Pickup Power",
         "cost": [
           "Colorless"
         ],
         "damage": "",
-        "text": "Search your deck for an Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        "text": "Search your discard pile for an Energy card, show it to your opponent, and put it in your hand"
       },
       {
-        "name": "Front Spark",
+        "name": "Rear Spark",
         "cost": [
           "Lightning",
           "Colorless"
         ],
-        "damage": "20",
-        "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        "damage": "10",
+        "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
@@ -319,50 +313,41 @@
     "number": "6",
     "artist": "Katsura Tabata",
     "nationalPokedexNumbers": [
-      312
+      311
     ],
     "legalities": {
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "88166"
   },
   {
-    "id": "tk2b-7",
-    "name": "Vulpix",
+    "id": "tk2a-7",
+    "name": "Spoink",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
     "hp": "50",
     "types": [
-      "Fire"
+      "Psychic"
     ],
     "evolvesTo": [
-      "Ninetales"
+      "Grumpig"
     ],
     "attacks": [
       {
-        "name": "Bite",
+        "name": "Knock Away",
         "cost": [
-          "Colorless"
+          "Psychic"
         ],
-        "damage": "10",
-        "text": ""
-      },
-      {
-        "name": "Firebreathing",
-        "cost": [
-          "Fire",
-          "Colorless"
-        ],
-        "damage": "20+",
-        "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
       }
     ],
     "weaknesses": [
       {
-        "type": "Water",
+        "type": "Psychic",
         "value": "×2"
       }
     ],
@@ -370,37 +355,18 @@
       "Colorless"
     ],
     "number": "7",
-    "artist": "Midori Harada",
+    "artist": "Kagemaru Himeno",
     "nationalPokedexNumbers": [
-      37
+      325
     ],
     "legalities": {
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "89475"
   },
   {
-    "id": "tk2b-8",
-    "name": "Celio's Network",
-    "supertype": "Trainer",
-    "subtypes": [
-      "Supporter"
-    ],
-    "rules": [
-      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
-      "Search your deck for a Basic Pokémon or Evolution card (excluding Pokémon-ex), show it to your opponent, and put it into your hand. Shuffle your deck afterward."
-    ],
-    "number": "8",
-    "artist": "Ken Sugimori",
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "variant": "",
-    "tcgPlayerId": ""
-  },
-  {
-    "id": "tk2b-9",
+    "id": "tk2a-8",
     "name": "Energy Search",
     "supertype": "Trainer",
     "subtypes": [
@@ -409,7 +375,7 @@
     "rules": [
       "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward"
     ],
-    "number": "9",
+    "number": "8",
     "artist": "Kai Ishikawa",
     "legalities": {
       "unlimited": "Legal",
@@ -417,10 +383,10 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "85242"
   },
   {
-    "id": "tk2b-10",
+    "id": "tk2a-9",
     "name": "Potion",
     "supertype": "Trainer",
     "subtypes": [
@@ -429,7 +395,7 @@
     "rules": [
       "Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1)."
     ],
-    "number": "10",
+    "number": "9",
     "artist": "Keiji Kinebuchi",
     "legalities": {
       "unlimited": "Legal",
@@ -437,11 +403,30 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "88339"
   },
   {
-    "id": "tk2b-11",
-    "name": "Fire Energy",
+    "id": "tk2a-10",
+    "name": "Professor Cozmo's Discovery",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Flip a coin. If heads, draw the bottom 3 cards of your deck. If tails, draw the top 2 cards of your deck."
+    ],
+    "number": "10",
+    "artist": "Ken Sugimori",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "variant": "",
+    "tcgPlayerId": "88385"
+  },
+  {
+    "id": "tk2a-11",
+    "name": "Lightning Energy",
     "supertype": "Energy",
     "subtypes": [
       "Basic"
@@ -453,11 +438,11 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "86763"
   },
   {
-    "id": "tk2b-12",
-    "name": "Lightning Energy",
+    "id": "tk2a-12",
+    "name": "Psychic Energy",
     "supertype": "Energy",
     "subtypes": [
       "Basic"
@@ -469,6 +454,6 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "88420"
   }
 ]
