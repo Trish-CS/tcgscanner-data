@@ -43,7 +43,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd15-2",
@@ -90,7 +91,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd15-3",
@@ -136,7 +138,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd15-4",
@@ -182,7 +185,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd15-5",
@@ -237,7 +241,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd15-6",
@@ -298,7 +303,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd15-7",
@@ -359,7 +365,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd15-8",
@@ -409,7 +416,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd15-9",
@@ -455,7 +463,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd15-10",
@@ -517,7 +526,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd15-11",
@@ -572,7 +582,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd15-12",
@@ -627,6 +638,7 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   }
 ]

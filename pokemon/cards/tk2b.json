@@ -51,7 +51,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "83583"
+    "tcgPlayerId": "83583",
+    "image": ""
   },
   {
     "id": "tk2b-2",
@@ -104,7 +105,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "84212"
+    "tcgPlayerId": "84212",
+    "image": ""
   },
   {
     "id": "tk2b-3",
@@ -161,7 +163,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "84228"
+    "tcgPlayerId": "84228",
+    "image": ""
   },
   {
     "id": "tk2b-4",
@@ -216,7 +219,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "85956"
+    "tcgPlayerId": "85956",
+    "image": ""
   },
   {
     "id": "tk2b-5",
@@ -269,7 +273,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "87200"
+    "tcgPlayerId": "87200",
+    "image": ""
   },
   {
     "id": "tk2b-6",
@@ -325,7 +330,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "87486"
+    "tcgPlayerId": "87486",
+    "image": ""
   },
   {
     "id": "tk2b-7",
@@ -378,7 +384,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "90439"
+    "tcgPlayerId": "90439",
+    "image": ""
   },
   {
     "id": "tk2b-8",
@@ -397,7 +404,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "84155"
+    "tcgPlayerId": "84155",
+    "image": ""
   },
   {
     "id": "tk2b-9",
@@ -417,7 +425,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "85243"
+    "tcgPlayerId": "85243",
+    "image": ""
   },
   {
     "id": "tk2b-10",
@@ -437,7 +446,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "88340"
+    "tcgPlayerId": "88340",
+    "image": ""
   },
   {
     "id": "tk2b-11",
@@ -453,7 +463,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "85460"
+    "tcgPlayerId": "85460",
+    "image": ""
   },
   {
     "id": "tk2b-12",
@@ -469,6 +480,7 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "86764"
+    "tcgPlayerId": "86764",
+    "image": ""
   }
 ]

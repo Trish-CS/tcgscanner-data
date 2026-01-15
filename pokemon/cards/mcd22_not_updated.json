@@ -53,7 +53,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-2",
@@ -109,7 +110,8 @@
     },
     "regulationMark": "D",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-3",
@@ -156,7 +158,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-4",
@@ -214,7 +217,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-5",
@@ -259,7 +263,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-6",
@@ -312,7 +317,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-7",
@@ -369,7 +375,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-8",
@@ -416,7 +423,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-9",
@@ -466,7 +474,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-10",
@@ -520,7 +529,8 @@
     },
     "regulationMark": "D",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-11",
@@ -564,7 +574,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-12",
@@ -622,7 +633,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-13",
@@ -683,7 +695,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-14",
@@ -731,7 +744,8 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "mcd22-15",
@@ -776,6 +790,7 @@
     },
     "regulationMark": "E",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   }
 ]

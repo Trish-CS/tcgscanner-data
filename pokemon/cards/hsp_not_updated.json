@@ -59,7 +59,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS02",
@@ -120,7 +121,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS03",
@@ -183,7 +185,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS04",
@@ -236,7 +239,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS05",
@@ -295,7 +299,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS06",
@@ -354,7 +359,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS07",
@@ -410,7 +416,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS08",
@@ -471,7 +478,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS09",
@@ -525,7 +533,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS10",
@@ -578,7 +587,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS11",
@@ -632,7 +642,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS12",
@@ -674,7 +685,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS13",
@@ -716,7 +728,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS14",
@@ -770,7 +783,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS15",
@@ -821,7 +835,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS16",
@@ -878,7 +893,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS17",
@@ -935,7 +951,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS18",
@@ -954,7 +971,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS19",
@@ -1005,7 +1023,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS20",
@@ -1050,7 +1069,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS21",
@@ -1095,7 +1115,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS22",
@@ -1150,7 +1171,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS23",
@@ -1207,7 +1229,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS24",
@@ -1259,7 +1282,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "hsp-HGSS25",
@@ -1313,6 +1337,7 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   }
 ]

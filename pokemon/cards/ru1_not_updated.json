@@ -45,7 +45,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-2",
@@ -95,7 +96,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-3",
@@ -139,7 +141,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-4",
@@ -186,7 +189,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-5",
@@ -230,7 +234,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-6",
@@ -283,7 +288,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-7",
@@ -335,7 +341,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-8",
@@ -386,7 +393,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-9",
@@ -430,7 +438,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-10",
@@ -479,7 +488,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-11",
@@ -530,7 +540,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-12",
@@ -585,7 +596,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-13",
@@ -636,7 +648,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-14",
@@ -689,7 +702,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-15",
@@ -734,7 +748,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "ru1-16",
@@ -781,6 +796,7 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   }
 ]

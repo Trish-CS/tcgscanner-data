@@ -347,7 +347,7 @@
     },
     {
         "id": "ru1",
-        "name": "Pok\u00e9mon Rumble",
+        "name": "Pokemon Rumble",
         "series": "Other"
     },
     {
@@ -364,19 +364,19 @@
     },
     {
         "id": "hgss2",
-        "name": "HS\u2014Unleashed",
+        "name": "HS—Unleashed",
         "series": "HeartGold & SoulSilver",
         "ptcgoCode": "UL"
     },
     {
         "id": "hgss3",
-        "name": "HS\u2014Undaunted",
+        "name": "HS—Undaunted",
         "series": "HeartGold & SoulSilver",
         "ptcgoCode": "UD"
     },
     {
         "id": "hgss4",
-        "name": "HS\u2014Triumphant",
+        "name": "HS—Triumphant",
         "series": "HeartGold & SoulSilver",
         "ptcgoCode": "TM"
     },
@@ -734,7 +734,7 @@
     },
     {
         "id": "fut20",
-        "name": "Pok\u00e9mon Futsal Collection",
+        "name": "Pokemon Futsal Collection",
         "series": "Other",
         "ptcgoCode": "FUT20"
     },

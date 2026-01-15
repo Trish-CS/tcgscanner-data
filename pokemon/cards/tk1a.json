@@ -44,7 +44,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "83694"
+    "tcgPlayerId": "83694",
+    "image": ""
   },
   {
     "id": "tk1a-2",
@@ -99,7 +100,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "84403"
+    "tcgPlayerId": "84403",
+    "image": ""
   },
   {
     "id": "tk1a-3",
@@ -152,7 +154,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "84737"
+    "tcgPlayerId": "84737",
+    "image": ""
   },
   {
     "id": "tk1a-4",
@@ -203,7 +206,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "86650"
+    "tcgPlayerId": "86650",
+    "image": ""
   },
   {
     "id": "tk1a-5",
@@ -256,7 +260,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "87808"
+    "tcgPlayerId": "87808",
+    "image": ""
   },
   {
     "id": "tk1a-6",
@@ -309,7 +314,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "89263"
+    "tcgPlayerId": "89263",
+    "image": ""
   },
   {
     "id": "tk1a-7",
@@ -354,7 +360,8 @@
       "unlimited": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "89954"
+    "tcgPlayerId": "89954",
+    "image": ""
   },
   {
     "id": "tk1a-8",
@@ -374,7 +381,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "88335"
+    "tcgPlayerId": "88335",
+    "image": ""
   },
   {
     "id": "tk1a-9",
@@ -394,7 +402,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "85239"
+    "tcgPlayerId": "85239",
+    "image": ""
   },
   {
     "id": "tk1a-10",
@@ -410,6 +419,7 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": "85457"
+    "tcgPlayerId": "85457",
+    "image": ""
   }
 ]

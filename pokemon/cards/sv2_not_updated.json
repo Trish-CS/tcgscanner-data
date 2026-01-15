@@ -43,7 +43,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon is blown across vast distances by the wind. It is unclear where the Hoppip of Paldea originally came from.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-2",
@@ -97,7 +98,8 @@
     "regulationMark": "G",
     "flavorText": "Skiploom enthusiasts can apparently tell where a Skiploom was born by the scent drifting from the flower on the Pokémon's head.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-3",
@@ -151,7 +153,8 @@
     "regulationMark": "G",
     "flavorText": "Jumpluff travels on seasonal winds. Once its cotton spores run out, its journey ends, as does its life.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-4",
@@ -199,7 +202,8 @@
     "regulationMark": "G",
     "flavorText": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-5",
@@ -261,7 +265,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-6",
@@ -320,7 +325,8 @@
     "regulationMark": "G",
     "flavorText": "It loves sweet nectar. To keep all the nectar to itself, it hurls rivals away with its prized horn.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-7",
@@ -376,7 +382,8 @@
     "regulationMark": "G",
     "flavorText": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-8",
@@ -422,7 +429,8 @@
     "regulationMark": "G",
     "flavorText": "At night, Combee sleep in a group of about a hundred, packed closely together in a lump.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-9",
@@ -478,7 +486,8 @@
     "regulationMark": "G",
     "flavorText": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-10",
@@ -527,7 +536,8 @@
     "regulationMark": "G",
     "flavorText": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-11",
@@ -585,7 +595,8 @@
     "regulationMark": "G",
     "flavorText": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-12",
@@ -639,7 +650,8 @@
     "regulationMark": "G",
     "flavorText": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-13",
@@ -686,7 +698,8 @@
     "regulationMark": "G",
     "flavorText": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-14",
@@ -742,7 +755,8 @@
     "regulationMark": "G",
     "flavorText": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-15",
@@ -801,7 +815,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-16",
@@ -847,7 +862,8 @@
     "regulationMark": "G",
     "flavorText": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon's natural enemy.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-17",
@@ -895,7 +911,8 @@
     "regulationMark": "G",
     "flavorText": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon's natural enemy.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-18",
@@ -954,7 +971,8 @@
     "regulationMark": "G",
     "flavorText": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-19",
@@ -1008,7 +1026,8 @@
     "regulationMark": "G",
     "flavorText": "It has its third set of legs folded up. When it's in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-20",
@@ -1054,7 +1073,8 @@
     "regulationMark": "G",
     "flavorText": "It has its third set of legs folded up. When it's in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-21",
@@ -1110,7 +1130,8 @@
     "regulationMark": "G",
     "flavorText": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-22",
@@ -1156,7 +1177,8 @@
     "regulationMark": "G",
     "flavorText": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-23",
@@ -1202,7 +1224,8 @@
     "regulationMark": "G",
     "flavorText": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-24",
@@ -1261,7 +1284,8 @@
     "regulationMark": "G",
     "flavorText": "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-25",
@@ -1307,7 +1331,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-26",
@@ -1354,7 +1379,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-27",
@@ -1419,7 +1445,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-28",
@@ -1477,7 +1504,8 @@
     "regulationMark": "G",
     "flavorText": "People call this kind of Tauros the Blaze Breed due to the hot air it snorts from its nostrils. Its three tails are intertwined.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-29",
@@ -1530,7 +1558,8 @@
     "regulationMark": "G",
     "flavorText": "Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-30",
@@ -1591,7 +1620,8 @@
     "regulationMark": "G",
     "flavorText": "It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-31",
@@ -1645,7 +1675,8 @@
     "regulationMark": "G",
     "flavorText": "When Litleo are young, female Pyroar will teach them how to hunt. Once the Litleo mature, they will leave the pride and set out on their own.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-32",
@@ -1702,7 +1733,8 @@
     "regulationMark": "G",
     "flavorText": "The females of a pride work together to bring down prey. It's thanks to them that their pride doesn't starve.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-33",
@@ -1756,7 +1788,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon is incredibly popular, possibly because its passionate dancing is a great match with the temperament of Paldean people.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-34",
@@ -1803,7 +1836,8 @@
     "regulationMark": "G",
     "flavorText": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-35",
@@ -1860,7 +1894,8 @@
     "regulationMark": "G",
     "flavorText": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-36",
@@ -1918,7 +1953,8 @@
     "regulationMark": "G",
     "flavorText": "The combination of Crocalor's fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon's head.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-37",
@@ -1979,7 +2015,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-38",
@@ -2026,7 +2063,8 @@
     "regulationMark": "G",
     "flavorText": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-39",
@@ -2083,7 +2121,8 @@
     "regulationMark": "G",
     "flavorText": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-40",
@@ -2141,7 +2180,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-41",
@@ -2199,7 +2239,8 @@
     "regulationMark": "G",
     "flavorText": "It swims by jetting water from its horns. The most notable characteristic of the Aqua Breed is its high body fat, which allows it to float easily.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-42",
@@ -2245,7 +2286,8 @@
     "regulationMark": "G",
     "flavorText": "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-43",
@@ -2308,7 +2350,8 @@
     "regulationMark": "G",
     "flavorText": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-44",
@@ -2355,7 +2398,8 @@
     "regulationMark": "G",
     "flavorText": "The fur on its body naturally repels water. It can stay dry even when it plays in the water.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-45",
@@ -2413,7 +2457,8 @@
     "regulationMark": "G",
     "flavorText": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-46",
@@ -2468,7 +2513,8 @@
     "regulationMark": "G",
     "flavorText": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-47",
@@ -2522,7 +2568,8 @@
     "regulationMark": "G",
     "flavorText": "Its heart-shaped body makes it popular. In some places, you would give a Luvdisc to someone you love.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-48",
@@ -2578,7 +2625,8 @@
     "regulationMark": "G",
     "flavorText": "On hot days, these Pokémon press their ice cube heads together and pass the time cooling each other down.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-49",
@@ -2625,7 +2673,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-50",
@@ -2671,7 +2720,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-51",
@@ -2727,7 +2777,8 @@
     "regulationMark": "G",
     "flavorText": "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-52",
@@ -2787,7 +2838,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-53",
@@ -2836,7 +2888,8 @@
     "regulationMark": "G",
     "flavorText": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-54",
@@ -2893,7 +2946,8 @@
     "regulationMark": "G",
     "flavorText": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-55",
@@ -2953,7 +3007,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-56",
@@ -3011,7 +3066,8 @@
     "regulationMark": "G",
     "flavorText": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-57",
@@ -3058,7 +3114,8 @@
     "regulationMark": "G",
     "flavorText": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-58",
@@ -3115,7 +3172,8 @@
     "regulationMark": "G",
     "flavorText": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-59",
@@ -3174,7 +3232,8 @@
     "regulationMark": "G",
     "flavorText": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-60",
@@ -3231,7 +3290,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-61",
@@ -3289,7 +3349,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-62",
@@ -3344,7 +3405,8 @@
     "regulationMark": "G",
     "flavorText": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-63",
@@ -3400,7 +3462,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-64",
@@ -3457,7 +3520,8 @@
     "regulationMark": "G",
     "flavorText": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-65",
@@ -3512,7 +3576,8 @@
     "regulationMark": "G",
     "flavorText": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-66",
@@ -3567,7 +3632,8 @@
     "regulationMark": "G",
     "flavorText": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-67",
@@ -3624,7 +3690,8 @@
     "regulationMark": "G",
     "flavorText": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-68",
@@ -3677,7 +3744,8 @@
     "regulationMark": "G",
     "flavorText": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-69",
@@ -3723,7 +3791,8 @@
     "regulationMark": "G",
     "flavorText": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-70",
@@ -3780,7 +3849,8 @@
     "regulationMark": "G",
     "flavorText": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-71",
@@ -3836,7 +3906,8 @@
     "regulationMark": "G",
     "flavorText": "It can see clearly through walls to track down its prey and seek its lost young.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-72",
@@ -3885,7 +3956,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon generates electricity when it digests food. It uses its five hard teeth to scrape seaweed off surfaces and eat it.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-73",
@@ -3941,7 +4013,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon generates electricity when it digests food. It uses its five hard teeth to scrape seaweed off surfaces and eat it.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-74",
@@ -3987,7 +4060,8 @@
     "regulationMark": "G",
     "flavorText": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-75",
@@ -4043,7 +4117,8 @@
     "regulationMark": "G",
     "flavorText": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-76",
@@ -4099,7 +4174,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-77",
@@ -4145,7 +4221,8 @@
     "regulationMark": "G",
     "flavorText": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-78",
@@ -4200,7 +4277,8 @@
     "regulationMark": "G",
     "flavorText": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-79",
@@ -4263,7 +4341,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-80",
@@ -4324,7 +4403,8 @@
     "regulationMark": "G",
     "flavorText": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-81",
@@ -4386,7 +4466,8 @@
     "regulationMark": "G",
     "flavorText": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-82",
@@ -4446,7 +4527,8 @@
     "regulationMark": "G",
     "flavorText": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-83",
@@ -4501,7 +4583,8 @@
     "regulationMark": "G",
     "flavorText": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-84",
@@ -4558,7 +4641,8 @@
     "regulationMark": "G",
     "flavorText": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-85",
@@ -4621,7 +4705,8 @@
     "regulationMark": "G",
     "flavorText": "It is incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-86",
@@ -4690,7 +4775,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-87",
@@ -4743,7 +4829,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon startles people in the middle of the night. It gathers fear as its energy.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-88",
@@ -4804,7 +4891,8 @@
     "regulationMark": "G",
     "flavorText": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-89",
@@ -4863,7 +4951,8 @@
     "regulationMark": "G",
     "flavorText": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-90",
@@ -4924,7 +5013,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon is normally very innocent. When it is staring at something invisible, it is unblinking and utterly silent.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-91",
@@ -4986,7 +5076,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon will hypnotize children to put them to sleep before carrying them away. Be wary of nights when the starlight is bright.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-92",
@@ -5048,7 +5139,8 @@
     "regulationMark": "G",
     "flavorText": "Gothitelle unleashes psychic energy and shows opponents dreams of the universe's end. These dreams are apparently ethereal and beautiful.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-93",
@@ -5110,7 +5202,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-94",
@@ -5174,7 +5267,8 @@
     "regulationMark": "G",
     "flavorText": "People used to mistake Oranguru for a human when they saw it issue command after command to the other Pokémon of the forest.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-95",
@@ -5239,7 +5333,8 @@
     "regulationMark": "G",
     "flavorText": "If it loses its shovel, it will stick something else— like a branch—in its head to make do until it finds another shovel.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-96",
@@ -5306,7 +5401,8 @@
     "regulationMark": "G",
     "flavorText": "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-97",
@@ -5360,7 +5456,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-98",
@@ -5425,7 +5522,8 @@
     "regulationMark": "G",
     "flavorText": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-99",
@@ -5487,7 +5585,8 @@
     "regulationMark": "G",
     "flavorText": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-100",
@@ -5542,7 +5641,8 @@
     "regulationMark": "G",
     "flavorText": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-101",
@@ -5598,7 +5698,8 @@
     "regulationMark": "G",
     "flavorText": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-102",
@@ -5644,7 +5745,8 @@
     "regulationMark": "G",
     "flavorText": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-103",
@@ -5701,7 +5803,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-104",
@@ -5760,7 +5863,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-105",
@@ -5816,7 +5920,8 @@
     "regulationMark": "G",
     "flavorText": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-106",
@@ -5871,7 +5976,8 @@
     "regulationMark": "G",
     "flavorText": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-107",
@@ -5928,7 +6034,8 @@
     "regulationMark": "G",
     "flavorText": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-108",
@@ -5986,7 +6093,8 @@
     "regulationMark": "G",
     "flavorText": "This kind of Tauros, known as the Combat Breed, is distinguished by its thick, powerful muscles and its fierce disposition.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-109",
@@ -6042,7 +6150,8 @@
     "regulationMark": "G",
     "flavorText": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-110",
@@ -6089,7 +6198,8 @@
     "regulationMark": "G",
     "flavorText": "Born deep underground, this Pokémon becomes a pupa after eating enough dirt to make a mountain.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-111",
@@ -6137,7 +6247,8 @@
     "regulationMark": "G",
     "flavorText": "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-112",
@@ -6186,7 +6297,8 @@
     "regulationMark": "G",
     "flavorText": "It grows stronger by enduring harsh training. It is a gutsy Pokémon that can withstand any attack.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-113",
@@ -6244,7 +6356,8 @@
     "regulationMark": "G",
     "flavorText": "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-114",
@@ -6290,7 +6403,8 @@
     "regulationMark": "G",
     "flavorText": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-115",
@@ -6346,7 +6460,8 @@
     "regulationMark": "G",
     "flavorText": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-116",
@@ -6402,7 +6517,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-117",
@@ -6463,7 +6579,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-118",
@@ -6510,7 +6627,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon battles by throwing hard berries. It won't obey a Trainer who throws Poké Balls without skill.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-119",
@@ -6567,7 +6685,8 @@
     "regulationMark": "G",
     "flavorText": "The brass, which is the one that stands at the front and issues orders, is the strongest and smartest of the six.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-120",
@@ -6614,7 +6733,8 @@
     "regulationMark": "G",
     "flavorText": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-121",
@@ -6671,7 +6791,8 @@
     "regulationMark": "G",
     "flavorText": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-122",
@@ -6721,7 +6842,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey's body.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-123",
@@ -6778,7 +6900,8 @@
     "regulationMark": "G",
     "flavorText": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-124",
@@ -6824,7 +6947,8 @@
     "regulationMark": "G",
     "flavorText": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-125",
@@ -6871,7 +6995,8 @@
     "regulationMark": "G",
     "flavorText": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-126",
@@ -6927,7 +7052,8 @@
     "regulationMark": "G",
     "flavorText": "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-127",
@@ -6988,7 +7114,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-128",
@@ -7043,7 +7170,8 @@
     "regulationMark": "G",
     "flavorText": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-129",
@@ -7098,7 +7226,8 @@
     "regulationMark": "G",
     "flavorText": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-130",
@@ -7159,7 +7288,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-131",
@@ -7219,7 +7349,8 @@
     "regulationMark": "G",
     "flavorText": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-132",
@@ -7282,7 +7413,8 @@
     "regulationMark": "G",
     "flavorText": "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-133",
@@ -7328,7 +7460,8 @@
     "regulationMark": "G",
     "flavorText": "This cunning Pokémon hides under the cover of darkness, waiting to attack its prey.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-134",
@@ -7383,7 +7516,8 @@
     "regulationMark": "G",
     "flavorText": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-135",
@@ -7441,7 +7575,8 @@
     "regulationMark": "G",
     "flavorText": "Extremely strong, it can change the landscape. It is so insolent that it doesn't care about others.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-136",
@@ -7495,7 +7630,8 @@
     "regulationMark": "G",
     "flavorText": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-137",
@@ -7550,7 +7686,8 @@
     "regulationMark": "G",
     "flavorText": "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-138",
@@ -7597,7 +7734,8 @@
     "regulationMark": "G",
     "flavorText": "It can't see, so its first approach to examining things is to bite them. You will be covered in wounds until a Deino warms up to you.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-139",
@@ -7655,7 +7793,8 @@
     "regulationMark": "G",
     "flavorText": "The two heads do not get along at all. If you don't give each head the same amount of attention, they'll begin fighting out of jealousy.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-140",
@@ -7713,7 +7852,8 @@
     "regulationMark": "G",
     "flavorText": "Only the central head has a brain. It is very intelligent, but it thinks only of destruction.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-141",
@@ -7759,7 +7899,8 @@
     "regulationMark": "G",
     "flavorText": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff's face.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-142",
@@ -7817,7 +7958,8 @@
     "regulationMark": "G",
     "flavorText": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff's face.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-143",
@@ -7877,7 +8019,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-144",
@@ -7931,7 +8074,8 @@
     "regulationMark": "G",
     "flavorText": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-145",
@@ -7977,7 +8121,8 @@
     "regulationMark": "G",
     "flavorText": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-146",
@@ -8032,7 +8177,8 @@
     "regulationMark": "G",
     "flavorText": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-147",
@@ -8094,7 +8240,8 @@
     "regulationMark": "G",
     "flavorText": "It gathers things up in an apron made from shed feathers added to the Pokémon's chest feathers, then drops those things from high places for fun.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-148",
@@ -8158,7 +8305,8 @@
     "regulationMark": "G",
     "flavorText": "Corviknight can't serve as a taxi service in Paldea because the Pokémon's natural predators will attack it while it flies, endangering the customer.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-149",
@@ -8213,7 +8361,8 @@
     "regulationMark": "G",
     "flavorText": "Using the pointy tip of its trunk, it carves off chunks of hard rocks to eat. It is very docile and helps people with physical labor.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-150",
@@ -8281,7 +8430,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-151",
@@ -8344,7 +8494,8 @@
     "regulationMark": "G",
     "flavorText": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-152",
@@ -8385,7 +8536,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon emits ultrasonic waves from its large ears to search for fruit to eat. It mistakes Applin for its food.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-153",
@@ -8436,7 +8588,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-154",
@@ -8494,7 +8647,8 @@
     "regulationMark": "G",
     "flavorText": "Though very small, the brain in its tail is still considered an important organ because it emits powerful psychic energy.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-155",
@@ -8552,7 +8706,8 @@
     "regulationMark": "G",
     "flavorText": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig's.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-156",
@@ -8608,7 +8763,8 @@
     "regulationMark": "G",
     "flavorText": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-157",
@@ -8668,7 +8824,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-158",
@@ -8721,7 +8878,8 @@
     "regulationMark": "G",
     "flavorText": "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-159",
@@ -8784,7 +8942,8 @@
     "regulationMark": "G",
     "flavorText": "It is a flying transporter that carries small Pokémon in its beak. It bobs on the waves to rest its wings.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-160",
@@ -8832,7 +8991,8 @@
     "regulationMark": "G",
     "flavorText": "It sleeps for 20 hours every day. Making drowsy those that see it is one of its abilities.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-161",
@@ -8891,7 +9051,8 @@
     "regulationMark": "G",
     "flavorText": "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-162",
@@ -8950,7 +9111,8 @@
     "regulationMark": "G",
     "flavorText": "It is the world's most slothful Pokémon. However, it can exert horrifying power by releasing pent-up energy all at once.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-163",
@@ -9002,7 +9164,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon is normally calm, but once it enters battle, its hormonal balance changes and it becomes aggressive.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-164",
@@ -9054,7 +9217,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon is brave and reckless. The white markings around a Rookidee's eyes intimidate fainthearted Pokémon.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-165",
@@ -9117,7 +9281,8 @@
     "regulationMark": "G",
     "flavorText": "It's said that the reason behind Corvisquire's high level of intelligence is the large size of its brain relative to those of other bird Pokémon.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-166",
@@ -9173,7 +9338,8 @@
     "regulationMark": "G",
     "flavorText": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-167",
@@ -9228,7 +9394,8 @@
     "regulationMark": "G",
     "flavorText": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-168",
@@ -9286,7 +9453,8 @@
     "regulationMark": "G",
     "flavorText": "They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-169",
@@ -9348,7 +9516,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-170",
@@ -9408,7 +9577,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon apparently ties the base of its neck into a knot so that the energy stored in its belly does not escape from its beak.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-171",
@@ -9431,7 +9601,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-172",
@@ -9454,7 +9625,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-173",
@@ -9477,7 +9649,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-174",
@@ -9500,7 +9673,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-175",
@@ -9523,7 +9697,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-176",
@@ -9546,7 +9721,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-177",
@@ -9569,7 +9745,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-178",
@@ -9592,7 +9769,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-179",
@@ -9615,7 +9793,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-180",
@@ -9638,7 +9817,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-181",
@@ -9661,7 +9841,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-182",
@@ -9684,7 +9865,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-183",
@@ -9707,7 +9889,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-184",
@@ -9730,7 +9913,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-185",
@@ -9753,7 +9937,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-186",
@@ -9776,7 +9961,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-187",
@@ -9799,7 +9985,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-188",
@@ -9822,7 +10009,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-189",
@@ -9845,7 +10033,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-190",
@@ -9869,7 +10058,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-191",
@@ -9890,7 +10080,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-192",
@@ -9911,7 +10102,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-193",
@@ -9935,7 +10127,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-194",
@@ -9994,7 +10187,8 @@
     "regulationMark": "G",
     "flavorText": "It loves sweet nectar. To keep all the nectar to itself, it hurls rivals away with its prized horn.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-195",
@@ -10050,7 +10244,8 @@
     "regulationMark": "G",
     "flavorText": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-196",
@@ -10104,7 +10299,8 @@
     "regulationMark": "G",
     "flavorText": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-197",
@@ -10160,7 +10356,8 @@
     "regulationMark": "G",
     "flavorText": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-198",
@@ -10206,7 +10403,8 @@
     "regulationMark": "G",
     "flavorText": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-199",
@@ -10259,7 +10457,8 @@
     "regulationMark": "G",
     "flavorText": "Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-200",
@@ -10316,7 +10515,8 @@
     "regulationMark": "G",
     "flavorText": "The females of a pride work together to bring down prey. It's thanks to them that their pride doesn't starve.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-201",
@@ -10373,7 +10573,8 @@
     "regulationMark": "G",
     "flavorText": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-202",
@@ -10431,7 +10632,8 @@
     "regulationMark": "G",
     "flavorText": "The combination of Crocalor's fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon's head.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-203",
@@ -10477,7 +10679,8 @@
     "regulationMark": "G",
     "flavorText": "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-204",
@@ -10524,7 +10727,8 @@
     "regulationMark": "G",
     "flavorText": "The fur on its body naturally repels water. It can stay dry even when it plays in the water.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-205",
@@ -10580,7 +10784,8 @@
     "regulationMark": "G",
     "flavorText": "On hot days, these Pokémon press their ice cube heads together and pass the time cooling each other down.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-206",
@@ -10627,7 +10832,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-207",
@@ -10683,7 +10889,8 @@
     "regulationMark": "G",
     "flavorText": "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-208",
@@ -10730,7 +10937,8 @@
     "regulationMark": "G",
     "flavorText": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-209",
@@ -10789,7 +10997,8 @@
     "regulationMark": "G",
     "flavorText": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-210",
@@ -10846,7 +11055,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-211",
@@ -10903,7 +11113,8 @@
     "regulationMark": "G",
     "flavorText": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-212",
@@ -10964,7 +11175,8 @@
     "regulationMark": "G",
     "flavorText": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-213",
@@ -11026,7 +11238,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon will hypnotize children to put them to sleep before carrying them away. Be wary of nights when the starlight is bright.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-214",
@@ -11091,7 +11304,8 @@
     "regulationMark": "G",
     "flavorText": "If it loses its shovel, it will stick something else— like a branch—in its head to make do until it finds another shovel.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-215",
@@ -11153,7 +11367,8 @@
     "regulationMark": "G",
     "flavorText": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-216",
@@ -11209,7 +11424,8 @@
     "regulationMark": "G",
     "flavorText": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-217",
@@ -11268,7 +11484,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-218",
@@ -11326,7 +11543,8 @@
     "regulationMark": "G",
     "flavorText": "This kind of Tauros, known as the Combat Breed, is distinguished by its thick, powerful muscles and its fierce disposition.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-219",
@@ -11382,7 +11600,8 @@
     "regulationMark": "G",
     "flavorText": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-220",
@@ -11439,7 +11658,8 @@
     "regulationMark": "G",
     "flavorText": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-221",
@@ -11494,7 +11714,8 @@
     "regulationMark": "G",
     "flavorText": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-222",
@@ -11552,7 +11773,8 @@
     "regulationMark": "G",
     "flavorText": "Extremely strong, it can change the landscape. It is so insolent that it doesn't care about others.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-223",
@@ -11607,7 +11829,8 @@
     "regulationMark": "G",
     "flavorText": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-224",
@@ -11670,7 +11893,8 @@
     "regulationMark": "G",
     "flavorText": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-225",
@@ -11722,7 +11946,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon is brave and reckless. The white markings around a Rookidee's eyes intimidate fainthearted Pokémon.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-226",
@@ -11780,7 +12005,8 @@
     "regulationMark": "G",
     "flavorText": "They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-227",
@@ -11840,7 +12066,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon apparently ties the base of its neck into a knot so that the energy stored in its belly does not escape from its beak.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-228",
@@ -11898,7 +12125,8 @@
     "regulationMark": "G",
     "flavorText": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig's.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-229",
@@ -11958,7 +12186,8 @@
     "regulationMark": "G",
     "flavorText": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-230",
@@ -12020,7 +12249,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-231",
@@ -12079,7 +12309,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-232",
@@ -12144,7 +12375,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-233",
@@ -12205,7 +12437,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-234",
@@ -12263,7 +12496,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-235",
@@ -12323,7 +12557,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-236",
@@ -12381,7 +12616,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-237",
@@ -12444,7 +12680,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-238",
@@ -12513,7 +12750,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-239",
@@ -12575,7 +12813,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-240",
@@ -12637,7 +12876,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-241",
@@ -12698,7 +12938,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-242",
@@ -12758,7 +12999,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-243",
@@ -12819,7 +13061,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-244",
@@ -12880,7 +13123,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-245",
@@ -12948,7 +13192,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-246",
@@ -12999,7 +13244,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-247",
@@ -13061,7 +13307,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-248",
@@ -13084,7 +13331,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-249",
@@ -13107,7 +13355,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-250",
@@ -13130,7 +13379,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-251",
@@ -13153,7 +13403,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-252",
@@ -13176,7 +13427,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-253",
@@ -13199,7 +13451,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-254",
@@ -13222,7 +13475,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-255",
@@ -13245,7 +13499,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-256",
@@ -13304,7 +13559,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-257",
@@ -13369,7 +13625,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-258",
@@ -13430,7 +13687,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-259",
@@ -13488,7 +13746,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-260",
@@ -13548,7 +13807,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-261",
@@ -13606,7 +13866,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-262",
@@ -13668,7 +13929,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-263",
@@ -13729,7 +13991,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-264",
@@ -13791,7 +14054,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-265",
@@ -13814,7 +14078,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-266",
@@ -13837,7 +14102,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-267",
@@ -13860,7 +14126,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-268",
@@ -13883,7 +14150,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-269",
@@ -13906,7 +14174,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-270",
@@ -13929,7 +14198,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-271",
@@ -13988,7 +14258,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-272",
@@ -14049,7 +14320,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-273",
@@ -14109,7 +14381,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-274",
@@ -14167,7 +14440,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-275",
@@ -14228,7 +14502,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-276",
@@ -14251,7 +14526,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-277",
@@ -14274,7 +14550,8 @@
     },
     "regulationMark": "G",
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-278",
@@ -14291,7 +14568,8 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   },
   {
     "id": "sv2-279",
@@ -14308,6 +14586,7 @@
       "expanded": "Legal"
     },
     "variant": "",
-    "tcgPlayerId": ""
+    "tcgPlayerId": "",
+    "image": ""
   }
 ]
