@@ -52,7 +52,7 @@
     "regulationMark": "D",
     "variant": "",
     "tcgPlayerId": "223761",
-    "image": ""
+    "image": "fut20/1.webp"
   },
   {
     "id": "fut20-2",
@@ -106,7 +106,7 @@
     "regulationMark": "D",
     "variant": "",
     "tcgPlayerId": "223760",
-    "image": ""
+    "image": "fut20/2.webp"
   },
   {
     "id": "fut20-3",
@@ -161,7 +161,7 @@
     "regulationMark": "D",
     "variant": "",
     "tcgPlayerId": "227413",
-    "image": ""
+    "image": "fut20/3.webp"
   },
   {
     "id": "fut20-4",
@@ -215,7 +215,7 @@
     "regulationMark": "D",
     "variant": "",
     "tcgPlayerId": "248016",
-    "image": ""
+    "image": "fut20/4.webp"
   },
   {
     "id": "fut20-5",
@@ -269,6 +269,6 @@
     "regulationMark": "D",
     "variant": "",
     "tcgPlayerId": "248015",
-    "image": ""
+    "image": "fut20/5.webp"
   }
 ]
