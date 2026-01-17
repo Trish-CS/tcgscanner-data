@@ -55,7 +55,7 @@
     },
     "variant": "",
     "tcgPlayerId": "",
-    "image": ""
+    "image": "bp/1.webp"
   },
   {
     "id": "bp-2",
@@ -111,7 +111,7 @@
     },
     "variant": "",
     "tcgPlayerId": "",
-    "image": ""
+    "image": "bp/2.webp"
   },
   {
     "id": "bp-3",
@@ -128,7 +128,7 @@
     },
     "variant": "",
     "tcgPlayerId": "",
-    "image": ""
+    "image": "bp/3.webp"
   },
   {
     "id": "bp-4",
@@ -188,7 +188,7 @@
     },
     "variant": "",
     "tcgPlayerId": "",
-    "image": ""
+    "image": "bp/4.webp"
   },
   {
     "id": "bp-5",
@@ -246,7 +246,7 @@
     },
     "variant": "",
     "tcgPlayerId": "",
-    "image": ""
+    "image": "bp/5.webp"
   },
   {
     "id": "bp-6",
@@ -302,7 +302,7 @@
     },
     "variant": "",
     "tcgPlayerId": "",
-    "image": ""
+    "image": "bp/6.webp"
   },
   {
     "id": "bp-7",
@@ -349,7 +349,7 @@
     },
     "variant": "",
     "tcgPlayerId": "",
-    "image": ""
+    "image": "bp/7.webp"
   },
   {
     "id": "bp-8",
@@ -414,7 +414,7 @@
     },
     "variant": "",
     "tcgPlayerId": "",
-    "image": ""
+    "image": "bp/8.webp"
   },
   {
     "id": "bp-9",
@@ -468,6 +468,6 @@
     },
     "variant": "",
     "tcgPlayerId": "",
-    "image": ""
+    "image": "bp/9.webp"
   }
 ]
